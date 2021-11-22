@@ -1,0 +1,29 @@
+{
+    "RollerBall": {
+        "checkpoints": [
+            {
+                "steps": 213478,
+                "file_path": "results\\roll2\\RollerBall\\RollerBall-213478.onnx",
+                "reward": 0.9977553310886644,
+                "creation_time": 1637480880.1614065,
+                "auxillary_file_paths": [
+                    "results\\roll2\\RollerBall\\RollerBall-213478.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 213478,
+            "file_path": "results\\roll2\\RollerBall.onnx",
+            "reward": 0.9977553310886644,
+            "creation_time": 1637480880.1614065,
+            "auxillary_file_paths": [
+                "results\\roll2\\RollerBall\\RollerBall-213478.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
